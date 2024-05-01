@@ -117,7 +117,7 @@ export const info = {
         {
             title: "Registeration Form",
            
-            source: "https://github.com/Mutahira-kousar/coding-dream-blog",
+            source: "https://github.com/Mutahira-kousar/coding-dream-blog/blob/main/register.php",
             image: mock5
         }
     ]
