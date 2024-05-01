@@ -108,33 +108,33 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "1. Highlight Product Features",
+            title: " Highlight Product Features",
             live: "https://clikmartpk.com/collections/fitted-sheet/products/silk-fitted-sheet-with-pillow-covers-teal", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            
+           
             image: mock1
         },
         {
-            title: "2. notesApp (API)",
-            live: "https://api-notes-app.netlify.app/",
-            source: "https://github.com/sohail151127/api-notes-app",
+            title: "Customize Slider",
+            live: "https://clikmartpk.com/collections/fitted-sheet/products/silk-fitted-sheet-with-pillow-covers-teal",
+            
             image: mock2
         },
         {
-            title: "3. addToCart (Redux-ToolKit)",
-            live: "https://redux-add-to-cart-app.netlify.app/",
-            source: "https://github.com/sohail151127/redux-addToCart",
+            title: "PHP blog",
+           
+            source: "https://github.com/Mutahira-kousar/coding-dream-blog",
             image: mock3
         },
         {
-            title: "4. adminLte (API)",
-            live: "https://admin-lte-food-api.netlify.app/",
-            source: "https://github.com/sohail151127/adminLte-foodApi",
+            title: "Todo-App python",
+           
+            source: "https://github.com/Mutahira-kousar/todo-app",
             image: mock4
         },
         {
-            title: "5. movieApp (Firebase-Auth)",
-            live: "https://movieapp123.firebaseapp.com/",
-            source: "https://github.com/sohail151127/movie-app",
+            title: "Registeration Form",
+           
+            source: "https://github.com/Mutahira-kousar/coding-dream-blog",
             image: mock5
         }
     ]
