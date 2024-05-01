@@ -49,31 +49,14 @@ export const info = {
         }
     ],
     socials: [
-        {
-            link: "",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
+       
+       
         {
             link: "https://github.com/Mutahira-kousar",
             icon: "fa fa-github",
             label: 'github'
-        },
-        {
-            link: "",
-            icon: "fa fa-linkedin",
-            label: 'linkedin'
-        },
-        {
-            link: "",
-            icon: "fa fa-twitter",
-            label: 'twitter'
         }
+       
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
