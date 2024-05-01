@@ -98,7 +98,7 @@ export const info = {
         },
         {
             title: "Customize Slider",
-            live: "https://clikmartpk.com/collections/fitted-sheet/products/silk-fitted-sheet-with-pillow-covers-teal",
+            live: "https://clikmartpk.com/",
             
             image: mock2
         },
