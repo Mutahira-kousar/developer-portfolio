@@ -26,14 +26,14 @@ export const info = {
     firstName: "Mutahira",
     lastName: "Mutahira",
     initials: "M.k", // the example uses first and last, but feel free to use three or more if you like.
-    position: "shopify theme developer",
+    position: "Shopify Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🏪',
+            text: 'I specialize in customizing Shopify themes to help businesses achieve their unique branding and functionality goals'
         },
         {
             emoji: '🌎',
@@ -81,8 +81,8 @@ export const info = {
     bio: "Hello! I'm Mutahira. I've done B.S Software Engineering from Virtual University of Pakistan(VU). I am a self learner. You can hire me!",
     skills:
         {
-            proficientWith: ['Html','CSS','bootstrap','javascript (ES6)','liquid' ,"bootStrap",'firebase-authentication', "MYSQL",'git', 'github', 'figma'],
-            exposedTo: ['python','php','figma']
+           proficientWith: ['Html','CSS','bootstrap','javascript (ES6)','liquid' ,"Python",'firebase-authentication', "MYSQL",'git', 'github', 'figma' , 'PHP'],
+            exposedTo: ['Shopify Theme Customization','Liquid Programming Language','Section Customization', 'Responsive Design for Shopify' , 'Shopify App Integration', 'SEO']
         }
     ,
     hobbies: [
@@ -97,7 +97,7 @@ export const info = {
         },
         {
             label: 'Writing blog posts',
-            emoji: '📖'
+            emoji: '🖊️'
         },
         {
             label: 'Travelling',
@@ -108,9 +108,9 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "1. notesApp (localStorage)",
-            live: "https://localstorage-notes-app-sohail151127.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/sohail151127/notes-app", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "1. Highlight Product Features",
+            live: "https://clikmartpk.com/collections/fitted-sheet/products/silk-fitted-sheet-with-pillow-covers-teal", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            
             image: mock1
         },
         {
