@@ -91,9 +91,9 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: " Highlight Product Features",
-            live: "https://clikmartpk.com/collections/fitted-sheet/products/silk-fitted-sheet-with-pillow-covers-teal", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-           
+            title: " Display only selected variant images",
+          .
+            source:"https://amine-shopify.notion.site/Variant-images-grouping-090308ad857c4788a78b3172c5e90070#01b12af52cc845cb86666fcb5a68e214",
             image: mock1
         },
         {
